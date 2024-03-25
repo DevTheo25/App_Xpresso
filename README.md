@@ -6,12 +6,12 @@ Xpresso é um aplicativo desenvolvido para atender às necessidades de uma loja 
 Xpresso foi meu primeiro projeto de software. Ele foi desenvolvido em Python, utilizando o Custom Tkinter como biblioteca frontend, e banco de dados MySQL para consultas e registros de dados. Este projeto me proporcionou uma valiosa experiência e conhecimento no desenvolvimento de software.
 
 ## Funcionalidades Principais
-*Registro de Vendas: Os usuários podem registrar vendas realizadas na loja.
-*Anotações: Permite aos usuários fazer anotações relevantes sobre transações ou clientes.
-*Quitação de Contas: Possibilidade de registrar o pagamento de contas por parte de clientes.
-*Gestão de Clientes: Adicionar e gerenciar informações de clientes.
-*Relatórios de Vendas: Oferece visões gerais e relatórios detalhados sobre as vendas.
-*Cadastro de Administradores: Permite o gerenciamento de usuários administradores do sistema.
+• Registro de Vendas: O administrador pode registrar vendas realizadas na loja.
+• Anotações: Permite aos usuários fazer anotações relevantes sobre transações ou clientes.
+• Quitação de Contas: Possibilidade de registrar o pagamento de contas por parte de clientes.
+• Gestão de Clientes: Adicionar e gerenciar informações de clientes.
+• Relatórios de Vendas: Oferece visões gerais e relatórios detalhados sobre as vendas.
+• Cadastro de Administradores: Permite o gerenciamento de usuários administradores do sistema.
 
 
 ![img1](https://user-images.githubusercontent.com/122491960/225779117-426bbfcb-1be6-4f10-aaf8-830078ed0f0b.PNG)
